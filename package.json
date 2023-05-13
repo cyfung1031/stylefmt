@@ -50,5 +50,9 @@
     "faucet": "^0.0.1",
     "klaw": "^4.0.1",
     "tape": "^5.5.3"
+  },
+  "overrides": {
+    "stylelint-order": "5.0.0",
+    "stylelint": "14.14.0"
   }
 }
